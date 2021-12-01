@@ -2,6 +2,7 @@
 
 mod wander;
 mod aoc2020;
+mod aoc2021;
 
 
 fn main() {
@@ -14,8 +15,9 @@ fn main() {
     // aoc2020::d7::run();
     // aoc2020::d7::p2_run();
     // aoc2020::d8::run();
-    aoc2020::d9::run();
+    // aoc2020::d9::run();
 
-    
     // aoc2020::d17::run();
+
+    aoc2021::d01::run();
 }
