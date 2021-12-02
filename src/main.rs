@@ -19,5 +19,6 @@ fn main() {
 
     // aoc2020::d17::run();
 
-    aoc2021::d01::run();
+    // aoc2021::d01::run();
+    aoc2021::d02::run();
 }
