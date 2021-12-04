@@ -18,11 +18,10 @@ fn main() {
     // aoc2020::d7::p2_run();
     // aoc2020::d8::run();
     // aoc2020::d9::run();
-
     // aoc2020::d17::run();
 
     // aoc2021::d01::run();
     // aoc2021::d02::run();
-    aoc2021::d03::run();
-
+    // aoc2021::d03::run();
+    aoc2021::d04::run();
 }
