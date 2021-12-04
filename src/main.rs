@@ -23,5 +23,6 @@ fn main() {
 
     // aoc2021::d01::run();
     // aoc2021::d02::run();
-    println!("{}", load_data("data/aoc2021/d01.txt"));
+    aoc2021::d03::run();
+
 }
