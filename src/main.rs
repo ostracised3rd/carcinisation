@@ -24,5 +24,6 @@ fn main() {
     // aoc2021::d02::run();
     // aoc2021::d03::run();
     // aoc2021::d04::run();
-    aoc2021::d05::run();
+    // aoc2021::d05::run();
+    aoc2021::d06::run();
 }
