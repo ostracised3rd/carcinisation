@@ -26,9 +26,6 @@ fn main() {
     // aoc2021::d04::run();
     // aoc2021::d05::run();
     // aoc2021::d06::run();
-
-    aoc2021::d07::run();
-    // let data = vec![16,1,2,0,4,2,7,1,2,14];
-    // let mid = data.iter().sum::<i32>() as f32 / data.len() as f32;
-    // println!("{}", mid.round());
+    // aoc2021::d07::run();
+    aoc2021::d08::run();
 }
